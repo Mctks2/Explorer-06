@@ -5,6 +5,7 @@ Página web interativa com um jogo de adivinhação de números de 0 a 10. Ao ac
 ## 🛠️ Tecnologias utilizadas
 - HTML
 - CSS
+- JavaScript
 
 ## 🚧 Layout
 
